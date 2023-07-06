@@ -19,7 +19,7 @@ module.exports = {
             description: "player endpoints"
         }
     ],
-    filesPattern: './app.js',
+    filesPattern: './**/*.js',
     baseDir: __dirname,
     swaggerUIPath: '/swagger',
 };
