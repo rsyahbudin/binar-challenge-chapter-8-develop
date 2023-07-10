@@ -31,18 +31,18 @@ $ npm run start
 ## Tasks
 Jika teman-teman sudah berhasil menjalankan aplikasi RESTful API dari repository ini, teman-teman perlu melakukan dua hal:
 1. Membuat dokumentasi API dengan Swagger
-    - [ ] Baca code repository RESTful API ini baik-baik
-    - [ ] Buat dokumentasi untuk semua endpoint yang terdaftar di router
-    - [ ] Dokumentasi melingkupi : 
-        - [ ] HTTP method
-        - [ ] URL
-        - [ ] URL parameter (jika ada)
-        - [ ] Query parameter (jika ada)
-        - [ ] Request body (jika ada)
-        - [ ] format response
-    - [ ] Pasang dokumentasi Swagger dalam satu routing
+    - [x] Baca code repository RESTful API ini baik-baik
+    - [x] Buat dokumentasi untuk semua endpoint yang terdaftar di router
+    - [x] Dokumentasi melingkupi : 
+        - [x] HTTP method
+        - [x] URL
+        - [x] URL parameter (jika ada)
+        - [x] Query parameter (jika ada)
+        - [x] Request body (jika ada)
+        - [x] format response
+    - [x] Pasang dokumentasi Swagger dalam satu routing
 2. Membuat client-side application dengan React.js
-    - [ ] Buat folder baru, misalkan /client, kemudian buat project baru dalam folder tersebut dengan `$ npm init -y` atau `$ npx create-react-app client`
+    - [x] Buat folder baru, misalkan /client, kemudian buat project baru dalam folder tersebut dengan `$ npm init -y` atau `$ npx create-react-app client`
     - [ ] Buat tampilan/UI untuk fitur berikut :
         - [ ] Form untuk membuat player baru, dengan tombol Submit
         - [ ] Form untuk mengedit player, dengan tombol Submit
